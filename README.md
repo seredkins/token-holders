@@ -8,7 +8,7 @@
 ![alt text](structure.png)
 
 Вид записей в базе `holders_snapshot`:
-```json
+```
 {
     "_id_": ObjectId(),
     "datetime": DateTime(),
